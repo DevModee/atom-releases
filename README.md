@@ -25,6 +25,8 @@ Get-FileHash .\Atom-x64.msi -Algorithm SHA256
 
 The hash shown must match the one in `SHA256SUMS.txt`. If it does not, delete the file and download it again.
 
+- **VirusTotal scan (`Atom-x64.msi`):** [View latest analysis](https://www.virustotal.com/gui/file-analysis/NzExMTFlNjVhNTA2NzVlNmVkZDY4NGFmNjUwNjM5MjA6MTc5NTMwMDk3MQ==)
+
 ## Requirements
 
 - Windows 10 version 2004 or later, or Windows 11 (64-bit)
