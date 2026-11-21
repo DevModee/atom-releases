@@ -21,4 +21,4 @@ The hash must match the one in `SHA256SUMS.txt` for that release.
 
 ## Feedback
 
-Report bugs or send feedback from Settings > About > Report a bug inside Atom.
+Report bugs or send feedback in [Issues](https://github.com/DevModee/atom-releases/issues).
